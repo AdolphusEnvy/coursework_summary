@@ -12,9 +12,18 @@ Bitcoin criminality analysis
 * Handled bitcoin transaction records through different approaches (Spark, Web APIs)
 * Trained random forest model as criminality classifier
 * Visualized transaction networks, filtered discriminable structures
-* Score: 5.7(6.7 for whole course)
+* Score: 5.7 (6.7 for whole course)
 * Contribution: 60% (team of 3)
 * Report:[LSDE11-BitcoinCriminality.pdf](https://github.com/AdolphusEnvy/coursework_summary/blob/master/LSDE11-BitcoinCriminality.pdf "LSDE11-BitcoinCriminality.pdf")
+### Software Asset Management
+#### Literature  study
+Manual software estimation
+* Read book and summarized the ideas, and made  presentation
+* Score: 8 ( 8 for whole  course)
+* contribution: 1/3 (team of 3)
+* Report:  [SAM_paper_7.pdf](https://github.com/AdolphusEnvy/coursework_summary/blob/master/SAM_paper_7.pdf "SAM_paper_7.pdf")
+###  Programming Large-scale Parallel Systems
+Exam only (Score: 6.5) 
 ### Distributed Systems
 #### Practical assignment
 Design and Implementation of a MapReduce Framework
@@ -33,4 +42,4 @@ Building a Knowledge Extraction Engine
 * Contribution: 60% (team of 4)
 * Github Repo: [https://github.com/azimafroozeh/WDPS](https://github.com/azimafroozeh/WDPS)
 * Report: [VU_Web_Data_Processing_System_Lab_Report.pdf](https://github.com/AdolphusEnvy/coursework_summary/blob/master/VU_Web_Data_Processing_System_Lab_Report.pdf "VU_Web_Data_Processing_System_Lab_Report.pdf")
-
+### History of digital cultures
