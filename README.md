@@ -1,6 +1,7 @@
 
 # Coursework_Summary
 The summary, description and document navigation of course work
+
 Last update:2019.7.19
 ## You Hu
 ### Msc. Computer Science (Joint with UvA) at Vrije University Amsterdam
@@ -52,7 +53,7 @@ History of process algebra
 * Contribution (group of 4): mainly worked on bibliometrics part and interviewed one Prof.
 * Report: unable to show due to the potential privacy issue
 ### Experimental Design and Data Analysis
-Many homeworks, I had bad feeling about this couse. It proves that math is broing for me.
+Many homeworks, I had bad feeling about this course. It proves that math is broing for me.
 
 So, no detial.
 
