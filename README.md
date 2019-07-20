@@ -53,6 +53,9 @@ History of process algebra
 * Report: unable to show due to the potential privacy issue
 ### Experimental Design and Data Analysis
 Many homeworks, I had bad feeling about this couse. It proves that math is broing for me.
+
 So, no detial.
+
 8.0 in the end, thanks to Azim and Saliha
+
 Contribution is few.
