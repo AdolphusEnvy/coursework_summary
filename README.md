@@ -116,7 +116,7 @@ Learning virtualization on light weight and orchestration of containers
 * Contribution: worked on kubernetes system
 * Reports:
 	* Docker container: [WSCS_Report_ Container Virtualization.pdf](https://github.com/AdolphusEnvy/coursework_summary/blob/master/WSCS_Report_%20Container%20Virtualization.pdf "WSCS_Report_ Container Virtualization.pdf")
-	* Kubernetes: [WSCS_Report on kubernetes experiment.pdf](https://github.com/AdolphusEnvy/coursework_summary/blob/master/WSCS_Report%20on%20kubernetes%20experiment.pdf"WSCS_Report on kubernetes experiment.pdf")
+	* Kubernetes: [WSCS_Report on kubernetes experiment.pdf](https://github.com/AdolphusEnvy/coursework_summary/blob/master/WSCS_Report%20on%20kubernetes%20experiment.pdf "WSCS_Report on kubernetes experiment.pdf")
 #### Literature study on cloud systems
 Disaster recovery on cloud infrastructure
 * Read about peer reviewed papers and technical documents of AWS and Alibaba Cloud
