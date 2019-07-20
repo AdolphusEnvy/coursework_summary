@@ -2,7 +2,7 @@
 # Coursework_Summary
 The summary, description and document navigation of course work
 
-Last update:2019.7.19
+Last update:2019.7.20
 ## You Hu
 ### Msc. Computer Science (Joint with UvA) at Vrije University Amsterdam
 ### Track Big Data Engineering
@@ -86,7 +86,9 @@ Predictors of Mental Health
 * Report: [DMT_Assignment2_Group53.pdf](https://github.com/AdolphusEnvy/coursework_summary/blob/master/DMT_Assignment2_Group53.pdf "DMT_Assignment2_Group53.pdf")
 
 Contribution (group of 3): worked on part of feature engineering and established most of models 
+
 Github Repo: [https://github.com/AdolphusEnvy/data_mining_course](https://github.com/AdolphusEnvy/data_mining_course)
+
 Score for whole course: 8.5
 ### Web Service and Cloud-based Systems
 #### Service Oriented Architecture
@@ -124,6 +126,7 @@ Disaster recovery on cloud infrastructure
 * Contribution: worked together with another group member on reading and writing
 
 Github Repo: [https://github.com/AdolphusEnvy/web-service-and-cloud-system](https://github.com/AdolphusEnvy/web-service-and-cloud-system)
+
 Score for whole course: 7.5
 ### Machine Learning for the Quantified Self
 #### Assignment 3
