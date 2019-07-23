@@ -133,7 +133,7 @@ Score for whole course: 7.5
 Activity recognition according to data collected by wearable devices
 * Performed feature engineering on time domain, reduced 1000 visual concept features to a reasonable level
 * Used randomforest model for recognition
-* Score:8.7 ( 7 for whole course)
+* Score:8.7 ( 8 for whole course)
 * Contribution (group of 3): part of feature engineering and modeling
 * Github Repo: [https://github.com/AdolphusEnvy/ML4QS_2019](https://github.com/AdolphusEnvy/ML4QS_2019)
 * Report: [ML4QS_Assignment3_group100.pdf](https://github.com/AdolphusEnvy/coursework_summary/blob/master/ML4QS_Assignment3_group100.pdf "ML4QS_Assignment3_group100.pdf")
